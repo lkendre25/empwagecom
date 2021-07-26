@@ -1,4 +1,4 @@
 #!bin/bash
 
-echo "Welcome All "
+echo "Welcome All lk "
 
